@@ -1,0 +1,1 @@
+Just an example of a working Flutter app which can connect to a JHipster (Spring) backend with JWT security and then connect with stomp_dart_client on the tracker page (you need to enable WebSocket in the Jhipster app)
